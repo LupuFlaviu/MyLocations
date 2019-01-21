@@ -1,0 +1,30 @@
+<resources>
+
+    <string name="cancel">Cancel</string>
+    <string name="ok">Ok</string>
+    <string name="confirm">Confirm</string>
+    <string name="no_items">No Items</string>
+    <string name="error_something_went_wrong">Something Went Wrong</string>
+    <string name="error_retry">Retry</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="no_internet">No internet connection.</string>
+    <string name="bad_request">Bad Request</string>
+    <string name="allow_permission">Allow permission</string>
+    <string name="request_location">Location permission is needed in order to calculate the distance to your saved
+        locations
+    </string>
+    <string name="requesting_location">Requesting location access</string>
+    <string name="open_location_settings">Do you want to open location settings?</string>
+    <string name="location_list_title">My Locations</string>
+    <string name="calculating">Calculating…</string>
+    <string name="not_available">N/A</string>
+    <string name="location_details_title">Location Details</string>
+    <string name="delete_location">Are you sure you want to delete the selected location?</string>
+    <string name="add_location">Add new location</string>
+    <string name="edit_location">Edit location</string>
+    <string name="latitude_hint">Latitude</string>
+    <string name="longitude_hint">Longitude</string>
+    <string name="label_hint">Label</string>
+    <string name="address_hint">Address</string>
+    <string name="distance_in_km">%.2f km</string>
+</resources>
